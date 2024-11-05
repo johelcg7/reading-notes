@@ -11,6 +11,7 @@ La tecnología también es una de mis pasiones y estoy actualmente estudiando en
 
 
 ## Notas de Lectura del Code 102
+
 1. [Aprendiendo MarkDown](/102/read01.md)
 2. [La Computadora del Programador](/102/read02.md)
 3. [Versionamiento local y remoto](/102/read03.md)
@@ -20,14 +21,14 @@ La tecnología también es una de mis pasiones y estoy actualmente estudiando en
 7. [Programación con JavaScript](/102/read07.md)
 8. [Operadores y bucles](/102/read08.md)
 
-## Proyecto Web Regalos Personalizados
-+ [Lab04](/102/Lab04.md)
 
-## Notas de Lectura del Code 201
-1. [Lectura 1 en proceso](/201/read01.md)
-2. [Lectura 1 en proceso](/201/read01.md)
-3. [Lectura 1 en proceso](/201/read01.md)
-4. [Lectura 1 en proceso](/201/read01.md)
+
+## Notas de Lectura del Code 301
+
+1. [Introducción a React y los Componentes](/301/read01.md)
+2. [Lectura 3 en proceso](/301/read02.md)
+3. [Lectura 1 en proceso](/301/read03.md)
+4. [Lectura 1 en proceso](/301/read04.md)
 5. 
 6. 
 7. 

@@ -1,5 +1,5 @@
 # READ 01: Introducción a React y los Componentes
-
+Este tema es importante porque permite mejorar y optimizar el desarrollo de códigos mediante "React".
 ## Component-Based Architecture
 
 ### ¿Qué es un “componente”?
